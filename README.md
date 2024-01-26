@@ -1,6 +1,7 @@
 # Personal Finance Tracker
 
-![Project Logo](./images/logo.png)
+![Screenshot 2024-01-27 000551](https://github.com/the-lasya-projects/Personal_Finance_Tracker/assets/142709321/b163b0cb-66f5-488d-98f3-de025e8b4866)
+
 
 ## Overview
 
