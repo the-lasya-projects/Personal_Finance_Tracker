@@ -6,6 +6,8 @@
 ## Overview
 
 The Personal Finance Tracker is a simple and user-friendly tool designed to help individuals manage their personal finances effectively. It provides a platform for users to track income, expenses, set budget goals, and gain insights into their spending patterns.
+![Screenshot 2024-01-27 000551](https://github.com/the-lasya-projects/Personal_Finance_Tracker/assets/142709321/b163b0cb-66f5-488d-98f3-de025e8b4866)
+
 
 
 ## Features
